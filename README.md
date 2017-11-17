@@ -1,3 +1,3 @@
 # react-HOC
 
-[![Build Status](https://travis-ci.org/futantan/react-HOC.svg?branch=master)](https://travis-ci.org/futantan/react-HOC)
+[![CircleCI](https://circleci.com/gh/futantan/react-HOC.svg?style=svg)](https://circleci.com/gh/futantan/react-HOC)
